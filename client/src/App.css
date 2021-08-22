@@ -1,0 +1,29 @@
+.App {
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+input, button{
+  width: 200px;
+  height: 30px;
+  font-size: 20px;
+  margin: 5px;
+}
+
+.bike {
+  width: 500px;
+  height: 350px;
+  border: 2px solid black;
+  margin: 10px;
+}
+
+.cntr button {
+  height: 40px;
+  width: 60px;
+  background-color: #2CB3AE;
+  border: 1px solid #2CB3AE;
+  color: white;
+}
